@@ -1,0 +1,9 @@
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg'
+     x='0px' y='0px' width='56px' height='32px'>
+  <rect width='8' height='32px' style="fill:rgb(217,217,217)"/>
+  <rect x='8' y='4' width='48' height='24px' style="fill:rgb(0,176,80)"/>
+  <rect x='13' y='11' width='10' height='10px' style="fill:rgb(84,130,53)"/>
+  <rect x='27' y='11' width='10' height='10px' style="fill:rgb(84,130,53)"/>
+  <rect x='41' y='11' width='10' height='10px' style="fill:rgb(84,130,53)"/>
+  <rect x='12' y='25' width='40' height='5px' style="fill:rgb(255,217,102)"/>
+</svg>
