@@ -12,3 +12,5 @@
 ![rackmount-server.svg](rackmount-server.svg)
 
 ![tower-server.svg](tower-server.svg)
+
+![terminal.svg](terminal.svg)
