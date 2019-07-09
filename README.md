@@ -14,3 +14,5 @@
 ![tower-server.svg](tower-server.svg)
 
 ![terminal.svg](terminal.svg)
+
+![application.svg](application.svg)
