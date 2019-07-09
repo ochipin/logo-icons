@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg'
+     x='0px' y='0px' width='128px' height='96px'>
+  <g>
+    <!-- Window -->
+    <path d='M20 0 L108 0 Q128 0 128 20 L128 32 L0 32 L0 20 Q0 0 20 0 Z' style='fill:#333' />
+    <path d='M0 32 L0 70 Q0 96 20 96 L108 96 Q128 96 128 70 L128 32 Z' style='fill:#ccc' />
+    <path d='M0 32 L0 70 Q0 90 20 90 L108 90 Q128 90 128 70 L128 32 Z' style='fill:#ececec' />
+
+    <!-- Buttons -->
+    <circle cx='110' cy='16' r='6' style='fill:#53dd4a' />
+    <circle cx='94' cy='16' r='6' style='fill:#ee5151' />
+    <circle cx='78' cy='16' r='6' style='fill:#e29317' />
+
+    <!-- Tables -->
+    <rect x='56' y='34' width='20px' height='16px' style='fill:#48b2e6' />
+    <rect x='56' y='52' width='20px' height='16px' style='fill:#48b2e6' />
+    <rect x='56' y='70' width='20px' height='16px' style='fill:#48b2e6' />
+    <rect x='78' y='34' width='20px' height='16px' style='fill:#48b2e6' />
+    <rect x='78' y='52' width='20px' height='16px' style='fill:#48b2e6' />
+    <rect x='78' y='70' width='20px' height='16px' style='fill:#48b2e6' />
+    <rect x='100' y='34' width='20px' height='16px' style='fill:#48b2e6' />
+    <rect x='100' y='52' width='20px' height='16px' style='fill:#48b2e6' />
+    <rect x='100' y='70' width='20px' height='16px' style='fill:#48b2e6' />
+
+    <!-- Allows -->
+    <path d='M40 56 L56 56 L54 48 L80 60 L54 72 L56 64 L40 64' style='fill:#394d54' />
+
+    <!-- User -->
+    <circle cx='22' cy='60' r='16' style='fill:#008bb8' />
+    <circle cx='22' cy='74' r='12' style='fill:#ececec' />
+    <ellipse cx="22" cy="54" rx="7" ry="8" stroke="#008bb8" fill="#ececec" stroke-width="2" />
+  </g>
+</svg>
