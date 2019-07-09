@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg'
+     x='0px' y='0px' width='256px' height='96px'>
+  <g>
+    <path d="M0 0 L256 0 L256 24 L248 24 L248 40 L256 40 L256 56 L248 56 L248 72 L256 72 L256 96 L110 96 L110 76 L106 76 L106 96 L0 96 L0 72 L8 72 L8 56 L0 56 L0 40 L8 40 L8 24 L0 24 L0 0 Z" style="fill:rgb(41,130,60)"/>
+    <rect x="10" y="78" width="94" height="18" style="fill:rgb(255,235,130)" />
+    <rect x="112" y="78" width="134" height="18" style="fill:rgb(255,235,130)" />
+
+    <line x1="12" y1="78" x2="12" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="14" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="20" y1="78" x2="20" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="24" y1="78" x2="24" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="26" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="32" y1="78" x2="32" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="36" y1="78" x2="36" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="38" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="44" y1="78" x2="44" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="48" y1="78" x2="48" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="50" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="56" y1="78" x2="56" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="60" y1="78" x2="60" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="62" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="68" y1="78" x2="68" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="72" y1="78" x2="72" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="74" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="80" y1="78" x2="80" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="84" y1="78" x2="84" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="86" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="92" y1="78" x2="92" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="96" y1="78" x2="96" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="98" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+
+    <line x1="114" y1="78" x2="114" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="116" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="122" y1="78" x2="122" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="126" y1="78" x2="126" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="128" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="134" y1="78" x2="134" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="138" y1="78" x2="138" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="140" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="146" y1="78" x2="146" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="150" y1="78" x2="150" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="152" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="158" y1="78" x2="158" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="162" y1="78" x2="162" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="164" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="170" y1="78" x2="170" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="174" y1="78" x2="174" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="176" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="182" y1="78" x2="182" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="186" y1="78" x2="186" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="188" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="194" y1="78" x2="194" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="198" y1="78" x2="198" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="200" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="206" y1="78" x2="206" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="210" y1="78" x2="210" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="212" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="218" y1="78" x2="218" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="222" y1="78" x2="222" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="224" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="230" y1="78" x2="230" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <line x1="234" y1="78" x2="234" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+    <rect x="236" y="78" width="4" height="18" style="fill:rgb(224,184,91)" />
+    <line x1="242" y1="78" x2="242" y2="96" stroke-width="1" stroke="rgb(187,133,53)" />
+
+    <rect x="13" y="14" width="20" height="48" stroke-width="2" stroke="rgb(180,180,180)" stroke-dasharray="2" style="fill:rgb(49,49,49)" />
+    <rect x="43" y="14" width="20" height="48" stroke-width="2" stroke="rgb(180,180,180)" stroke-dasharray="2" style="fill:rgb(49,49,49)" />
+    <rect x="73" y="14" width="20" height="48" stroke-width="2" stroke="rgb(180,180,180)" stroke-dasharray="2" style="fill:rgb(49,49,49)" />
+    <rect x="103" y="14" width="20" height="48" stroke-width="2" stroke="rgb(180,180,180)" stroke-dasharray="2" style="fill:rgb(49,49,49)" />
+    <rect x="133" y="14" width="20" height="48" stroke-width="2" stroke="rgb(180,180,180)" stroke-dasharray="2" style="fill:rgb(49,49,49)" />
+    <rect x="163" y="14" width="20" height="48" stroke-width="2" stroke="rgb(180,180,180)" stroke-dasharray="2" style="fill:rgb(49,49,49)" />
+    <rect x="193" y="14" width="20" height="48" stroke-width="2" stroke="rgb(180,180,180)" stroke-dasharray="2" style="fill:rgb(49,49,49)" />
+    <rect x="223" y="14" width="20" height="48" stroke-width="2" stroke="rgb(180,180,180)" stroke-dasharray="2" style="fill:rgb(49,49,49)" />
+  </g>
+</svg>
