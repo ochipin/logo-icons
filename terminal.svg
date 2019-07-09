@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg'
+     x='0px' y='0px' width='128px' height='96px'>
+  <g>
+    <rect x='0' y='0' width='128' rx='10' ry='10' height='96' style='fill:#333' />
+    <path d='M16 24 L32 32 L16 40 L16 48 L40 36 L40 28 L16 16 L16 24 Z M44 48 L68 48 L68 56 L44 56 Z' style='fill:white' />
+  </g>
+</svg>
