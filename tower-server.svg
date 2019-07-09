@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg'
+     x='0px' y='0px' width='112px' height='160px'>
+  <g>
+    <path d='M56 0 L0 40 L56 52 L112 12 Z' style="fill:rgb(148,155,168)" />
+    <path d='M0 40 L56 52 L56 160 L0 148 Z' style="fill:rgb(130,137,153)" />
+    <path d='M56 52 L56 160 L112 120 L112 12 Z' style="fill:rgb(117,122,138)" />
+
+    <line x1='0' y1='40' x2='56' y2='52' stroke='rgb(175,175,175)'/>
+    <line x1='56' y1='52' x2='112' y2='12' stroke='rgb(175,175,175)'/>
+    <line x1='56' y1='52' x2='56' y2='159' stroke='rgb(156,161,170)' stroke-width='3px' />
+
+    <line x1='56' y1='0' x2='0' y2='40' stroke='rgb(117,117,117)'/>
+    <line x1='56' y1='0' x2='112' y2='12' stroke='rgb(117,117,117)'/>
+    <line x1='0.4' y1='40' x2='0.4' y2='148' stroke='rgb(117,117,117)'/>
+    <line x1='111.6' y1='12' x2='111.6' y2='120' stroke='rgb(117,117,117)'/>
+    <line x1='0.4' y1='148' x2='56' y2='160' stroke='rgb(117,117,117)'/>
+    <line x1='56' y1='160' x2='111.6' y2='120' stroke='rgb(117,117,117)'/>
+
+    <line x1='0.3' y1='72' x2='56' y2='84' stroke='rgb(117,117,117)' stroke-width='3px' />
+    <line x1='55' y1='84' x2='112' y2='44' stroke='rgb(117,117,117)' stroke-width='3px' />
+
+    <line x1='0.3' y1='100' x2='56' y2='112' stroke='rgb(117,117,117)' stroke-width='3px' />
+    <line x1='55' y1='112' x2='112' y2='72' stroke='rgb(117,117,117)' stroke-width='3px' />
+
+    <line x1='0.3' y1='128' x2='56' y2='140' stroke='rgb(117,117,117)' stroke-width='3px' />
+    <line x1='55' y1='140' x2='112' y2='100' stroke='rgb(117,117,117)' stroke-width='3px' />
+  </g>
+</svg>
