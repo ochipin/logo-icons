@@ -16,3 +16,5 @@
 ![internet.svg](internet.svg) ![cloud.svg](cloud.svg)
 
 ![database.svg](database.svg) ![firewall.svg](firewall.svg)
+
+![router.svg](router.svg)
