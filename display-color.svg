@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="132px" height="86px">
+  <rect x="2" y="2" width="128" height="70" fill='rgba(0,0,0,0)' stroke-width='4' stroke='#000000'/>
+  <rect x="55" y="74" width="22" height="8" fill='#000000' />
+  <rect x="35" y="82" width="62" height="4" fill='#000000' />
+
+  <rect x='4' y='4' width='72' height='44' fill='#F44336' />
+  <rect x='77' y='4' width='30' height='22' fill='#FF9800' />
+  <rect x='108' y='4' width='20' height='22' fill='#4CAF50' />
+  <rect x='77' y='27' width='51' height='21' fill='#00BCD4' />
+  <rect x='4' y='49' width='40' height='21' fill='#FF5722' />
+  <rect x='45' y='49' width='83' height='21' fill='#9C27B0' />
+</svg>
