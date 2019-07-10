@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="104px" height="92px">
+  <g>
+    <rect x='0' y='0' rx='2' ry='2' width='32' height='20' style='fill:rgb(237,113,97)' />
+    <rect x='36' y='0'  rx='2' ry='2' width='32' height='20' style='fill:rgb(215,90,74)' />
+    <rect x='72' y='0'  rx='2' ry='2' width='32' height='20' style='fill:rgb(237,113,97)' />
+    <rect x='0' y='24' rx='2' ry='2'  width='14' height='20' style='fill:rgb(215,90,74)' />
+    <rect x='18' y='24'  rx='2' ry='2' width='32' height='20' style='fill:rgb(237,113,97)' />
+    <rect x='54' y='24'  rx='2' ry='2' width='32' height='20' style='fill:rgb(215,90,74)' />
+    <rect x='90' y='24'  rx='2' ry='2' width='14' height='20' style='fill:rgb(237,113,97)' />
+    <rect x='0' y='48'  rx='2' ry='2' width='32' height='20' style='fill:rgb(237,113,97)' />
+    <rect x='36' y='48' rx='2' ry='2'  width='32' height='20' style='fill:rgb(215,90,74)' />
+    <rect x='72' y='48' rx='2' ry='2'  width='32' height='20' style='fill:rgb(237,113,97)' />
+    <rect x='0' y='72' rx='2' ry='2'  width='14' height='20' style='fill:rgb(215,90,74)' />
+    <rect x='18' y='72' rx='2' ry='2'  width='32' height='20' style='fill:rgb(237,113,97)' />
+    <rect x='54' y='72' rx='2' ry='2'  width='32' height='20' style='fill:rgb(215,90,74)' />
+    <rect x='90' y='72' rx='2' ry='2'  width='14' height='20' style='fill:rgb(237,113,97)' />
+  </g>
+  <g transform='translate(32,-23) scale(0.7, 0.9)'>
+    <g>
+      <path d='M64 128 Q0 128 64 30 Q108 128 64 128 Z M64 128 Q0 128 24 64' style='fill:rgb(243,213,91)' />
+      <path d='M64 128 Q128 118 84 44' style='fill:rgb(243,213,91)' />
+    </g>
+    <g transform='scale(0.4,0.4) translate(94,192)'>
+      <path d='M64 128 Q0 128 64 30 Q108 128 64 128 Z M64 128 Q0 128 24 64' style='fill:rgb(229,126,37)' />
+      <path d='M64 128 Q128 118 84 44' style='fill:rgb(229,126,37)' />
+    </g>
+  </g>
+</svg>
