@@ -1,18 +1,16 @@
 # logo-icons
 自分の自画像アイコン含む、自作SVG置き場
 
-![container.svg](container.svg)
+![container.svg](container.svg) ![container-image.svg](container-image.svg)
 
-![container-image.svg](container-image.svg)
+![memory.svg](memory.svg) ![nic.svg](nic.svg)
 
-![memory.svg](memory.svg)
+![rackmount-server.svg](rackmount-server.svg) ![tower-server.svg](tower-server.svg)
 
-![nic.svg](nic.svg)
+![terminal.svg](terminal.svg) ![application.svg](application.svg)
 
-![rackmount-server.svg](rackmount-server.svg)
+![mobile.svg](mobile.svg) ![mobile-color.svg](mobile-color.svg)
 
-![tower-server.svg](tower-server.svg)
+![display.svg](display.svg) ![display-color.svg](display-color.svg)
 
-![terminal.svg](terminal.svg)
-
-![application.svg](application.svg)
+![internet.svg](internet.svg) ![cloud.svg](cloud.svg)
