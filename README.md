@@ -11,6 +11,8 @@
 
 ![mobile.svg](mobile.svg) ![mobile-color.svg](mobile-color.svg)
 
-![display.svg](display.svg) ![display-color.svg](display-color.svg)
+![display.svg](display.svg) ![display-color.svg](display-color.svg) ![display-graph.svg](display-graph.svg)
 
 ![internet.svg](internet.svg) ![cloud.svg](cloud.svg)
+
+
