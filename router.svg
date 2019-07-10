@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg'
+     x='0px' y='0px' width='132px' height='112px'>
+  <g>
+    <!-- 天板 -->
+    <path d="M54 0 L0 42 L78 84 L132 42 Z" style="fill:rgb(255,255,255)"/>
+    <!-- 正面 -->
+    <path d="M0 42 L78 84 L78 112 L0 70 Z" style="fill:rgb(232,234,234)"/>
+    <!-- 側面 -->
+    <path d="M78 84 L78 112 L132 70 L132 42 Z" style="fill:rgb(212,214,214)"/>
+    <path d='M24 58 L54 74 L54 76 L24 60 Z' style='fill:#666' />
+    <path d='M6 56 L52 80 L52 90 L6 66 Z' style='fill:rgb(35,62,73)' />
+
+    <circle cx='70' cy='94' r='3' style='fill:#53dd4a' />
+    <circle cx='63' cy='90' r='3' style='fill:#ee5151' />
+    <circle cx='56' cy='86' r='3' style='fill:#e29317' />
+    <!--
+    <path d='M6 62 L72 98 L72 102 L6 66 L6 62 Z' style='fill:#666' />
+    -->
+    <line x1='0' y1='42' x2='78' y2='84' stroke='rgb(175,175,175)'/>
+    <line x1='78' y1='84' x2='132' y2='42' stroke='rgb(175,175,175)'/>
+    <line x1='78' y1='84' x2='78' y2='112' stroke='rgb(175,175,175)'/>
+    <line x1='54' y1='0' x2='0' y2='42' stroke='rgb(117,117,117)'/>
+    <line x1='54' y1='0' x2='132' y2='42' stroke='rgb(117,117,117)'/>
+    <line x1='0.4' y1='42' x2='0.4' y2='70' stroke='rgb(117,117,117)'/>
+    <line x1='0.4' y1='70' x2='78' y2='112' stroke='rgb(117,117,117)'/>
+    <line x1='131.6' y1='42' x2='131.6' y2='70' stroke='rgb(117,117,117)'/>
+    <line x1='131.6' y1='70' x2='78' y2='112' stroke='rgb(117,117,117)'/>
+  </g>
+
+  <g transform='scale(0.2,0.2) translate(240,170)'>
+    <!-- 天板 -->
+    <path d="M54 0 L0 42 L78 84 L132 42 Z" style="fill:rgb(255,255,255)"/>
+    <!-- 正面 -->
+    <path d="M0 42 L78 84 L78 112 L0 70 Z" style="fill:rgb(232,234,234)"/>
+    <!-- 側面 -->
+    <path d="M78 84 L78 112 L132 70 L132 42 Z" style="fill:rgb(212,214,214)"/>
+
+    <line x1='0' y1='42' x2='78' y2='84' stroke='rgb(175,175,175)'/>
+    <line x1='78' y1='84' x2='132' y2='42' stroke='rgb(175,175,175)'/>
+    <line x1='78' y1='84' x2='78' y2='112' stroke='rgb(175,175,175)'/>
+    <line x1='54' y1='0' x2='0' y2='42' stroke='rgb(117,117,117)'/>
+    <line x1='54' y1='0' x2='132' y2='42' stroke='rgb(117,117,117)'/>
+    <line x1='0.4' y1='42' x2='0.4' y2='70' stroke='rgb(117,117,117)'/>
+    <line x1='131.6' y1='42' x2='131.6' y2='70' stroke='rgb(117,117,117)'/>
+  </g>
+
+  <g>
+    <line x1='60' y1='44' x2='60' y2='22' stroke='rgb(35,62,73)' stroke-width='3.8px'/>
+    <circle cx='60' cy='44' r='2' style='fill:rgb(35,62,73)' />
+    <circle cx='60' cy='24' r='4' style='fill:rgb(35,62,73)' />
+
+    <path d="M56 17 a7,7 3 1,0 0,14" stroke='#25AAE2' stroke-width='4' fill-opacity="0.0" style='fill:rgb(255,255,255))' />
+    <path d="M54 10 a7,7 3 1,0 0,28" stroke='#25AAE2' stroke-width='4' fill-opacity="0.0" style='fill:rgb(255,255,255))'/>
+    <path d="M52 3 a7,7 3 1,0 0,42" stroke='#25AAE2' stroke-width='4' fill-opacity="0.0" style='fill:rgb(255,255,255))' />
+  </g>
+</svg>
