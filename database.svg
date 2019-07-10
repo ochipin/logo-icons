@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="120px" height="154px">
+  <g transform='translate(0,0)'>
+    <path d='M0 21 L0 128 Q64 160 120 128 L120 21' style='fill:rgb(100,109,130)' />
+    <ellipse cx="60" cy="21" rx="60" ry="20" style='fill:rgb(216,227,233)' />
+
+    <ellipse cx="60" cy="134" rx="60" ry="20" style='fill:rgb(216,227,233)' />
+    <ellipse cx="60" cy="130" rx="60" ry="20" style='fill:rgb(100,109,130)'/>
+
+    <ellipse cx="60" cy="97" rx="60" ry="20" style='fill:rgb(216,227,233)' />
+    <ellipse cx="60" cy="93" rx="60" ry="20" style='fill:rgb(100,109,130)'/>
+
+    <ellipse cx="60" cy="60" rx="60" ry="20" style='fill:rgb(216,227,233)' />
+    <ellipse cx="60" cy="56" rx="60" ry="20" style='fill:rgb(100,109,130)' />
+
+    <ellipse cx="60" cy="21" rx="60" ry="20" style='fill:rgb(216,227,233)' />
+
+    <circle cx='90' cy='56' r='6' style='fill:rgb(205,220,227)' />
+    <circle cx='90' cy='94' r='6' style='fill:rgb(205,220,227)' />
+    <circle cx='90' cy='130' r='6' style='fill:rgb(205,220,227)' />
+  </g>
+</svg>
