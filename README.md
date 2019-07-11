@@ -13,8 +13,8 @@
 
 ![display.svg](display.svg) ![display-color.svg](display-color.svg) ![display-graph.svg](display-graph.svg)
 
-![internet.svg](internet.svg) ![cloud.svg](cloud.svg)
+![internet.svg](internet.svg) ![cloud.svg](cloud.svg) ![cloudy.svg](cloudy.svg) 
 
 ![database.svg](database.svg) ![firewall.svg](firewall.svg)
 
-![router.svg](router.svg)
+![router.svg](router.svg) ![lan-port.svg](lan-port.svg) 
