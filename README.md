@@ -17,4 +17,4 @@
 
 ![database.svg](database.svg) ![firewall.svg](firewall.svg)
 
-![router.svg](router.svg) ![lan-port.svg](lan-port.svg) 
+![router.svg](router.svg) ![lan-port.svg](lan-port.svg) ![config.svg](config.svg)
