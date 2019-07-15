@@ -22,3 +22,5 @@
 ![file.svg](file.svg) ![source.svg](source.svg) ![dockerfile.svg](dockerfile.svg) ![directry.svg](directry.svg)
 
 ![user.svg](user.svg) ![user-outline.svg](user-outline.svg) ![key.svg](key.svg) ![lock.svg](lock.svg)
+
+![mail.svg](mail.svg) ![](mail-blue.svg) ![](mail-red.svg) ![](mail-purple.svg) ![](mail-green.svg)
