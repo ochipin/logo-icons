@@ -20,3 +20,5 @@
 ![router.svg](router.svg) ![lan-port.svg](lan-port.svg) ![config.svg](config.svg)
 
 ![file.svg](file.svg) ![source.svg](source.svg) ![dockerfile.svg](dockerfile.svg) ![directry.svg](directry.svg)
+
+![user.svg](user.svg) ![user-outline.svg](user-outline.svg) ![key.svg](key.svg) ![lock.svg](lock.svg)
