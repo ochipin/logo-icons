@@ -18,3 +18,5 @@
 ![database.svg](database.svg) ![firewall.svg](firewall.svg)
 
 ![router.svg](router.svg) ![lan-port.svg](lan-port.svg) ![config.svg](config.svg)
+
+![file.svg](file.svg) ![source.svg](source.svg) ![dockerfile.svg](dockerfile.svg) ![directry.svg](directry.svg)
