@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg'
+     x='0px' y='0px' width='48px' height='48px'>
+  <g>
+    <!-- Yellow: FAD063 -->
+    <!-- Red: FD6F70 -->
+    <!-- Blue: 90DFF9 -->
+    <!-- Green: 0BAD9B -->
+    <!-- Gray: 3F424B -->
+    <g transform='rotate(45,24,24)'>
+      <path d='M0 18 L30 18 L35 22 L40 18 L45 22 L50 18 L60 18 L60 30 L0 30 L0 18' style='fill:#0BAD9B' />
+      <path d='M53 25 L51 27 L28 27 L28 25' style='fill:white' />
+    </g>
+    <circle cx='15' cy='15' r='15' style='fill:#0BAD9B' />
+    <circle cx='12' cy='12' r='4' style='fill:white' />
+  </g>
+</svg>
