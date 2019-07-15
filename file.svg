@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg'
+     x='0px' y='0px' width='48px' height='64px'>
+  <g>
+    <!-- ファイル本体 -->
+    <path d='M1 2 Q1 1 2 1 L32 1 L47 18 L47 50 L1 50 L1 2' stroke='#54306E' stroke-width='2px' style='fill:#F0FEFF' />
+    <path d='M1 50 L47 50 L47 62 Q47 63 46 63 L2 63 Q0 63 1 62 L1 50' stroke='#54306E' stroke-width='2px' style='fill:#C9F3FD' />
+    <g transform='translate(0,1)'>
+      <path d='M32 1 L44 18 L34 18 Q32 18 32 16 L32 1' stroke='#d2dfe0' stroke-width='2px' style='fill:#F7FEFF'/>
+    </g>
+    <path d='M32 1 L47 18 L34 18 Q32 18 32 16 L32 1' stroke='#54306E' stroke-width='2px' style='fill:#F7FEFF'/>
+  </g>
+</svg>
