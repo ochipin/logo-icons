@@ -28,3 +28,5 @@
 ![key.svg](key.svg) ![lock.svg](lock.svg)
 
 ![mail.svg](mail.svg) ![](mail-blue.svg) ![](mail-red.svg) ![](mail-purple.svg) ![](mail-green.svg) ![](mail-yellow.svg)
+
+![](sslvpn.svg) ![](sslvpn-outline.svg)
