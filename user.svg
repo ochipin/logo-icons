@@ -8,7 +8,9 @@
     <!-- Blue: 90DFF9 -->
     <!-- Green: 0BAD9B -->
     <!-- Gray: 3F424B -->
-    <circle cx='16' cy='32' r='16' stroke='3' style='fill:#3F424B' />
-    <circle cx='16' cy='8' r='8' stroke='3' style='fill:#3F424B' />
+    <!-- <path d="M x1 y1  A  rx ry start f1 f2 x2,y2" fill="none" stroke="black" /> -->
+    <!-- <path d="M x1 y1  a  rx ry start f1 f2 dx,dy" fill="none" stroke="black" /> -->
+    <path d='M0 32 A 16 16 0 1 1 32 32' style='fill:#3F424B' />
+    <circle cx='16' cy='8' r='8' style='fill:#3F424B' />
   </g>
 </svg>
