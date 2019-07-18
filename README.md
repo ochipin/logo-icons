@@ -19,7 +19,7 @@
 
 ![router.svg](router.svg) ![lan-port.svg](lan-port.svg) ![config.svg](config.svg)
 
-![file.svg](file.svg) ![source.svg](source.svg) ![dockerfile.svg](dockerfile.svg) ![directry.svg](directry.svg)
+![file.svg](file.svg) ![source.svg](source.svg) ![dockerfile.svg](dockerfile.svg) ![directry.svg](directry.svg) ![dustbox.svg]
 
 ![](user.svg) ![](user-blue.svg) ![](user-red.svg) ![](user-purple.svg) ![](user-green.svg) ![](user-yellow.svg)
 
