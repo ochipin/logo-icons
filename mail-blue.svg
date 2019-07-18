@@ -8,10 +8,11 @@
     <!-- Blue: 90DFF9 -->
     <!-- Green: 0BAD9B -->
     <!-- Gray: 3F424B -->
-    <path d='M3 0 L45 0 L24 21 L3 0' style='fill:rgb(33,150,243)'/>
-    <path d='M0 0 L16 16 L0 32' style='fill:rgb(33,150,243)' />
-    <path d='M48 0 L32 16 L48 32' style='fill:rgb(33,150,243)' />
-    <path d='M3 32 L17.4 17.6 L32 32' style='fill:rgb(33,150,243)'/>
-    <path d='M16 32 L30.4 17.6 L45 32' style='fill:rgb(33,150,243)'/>
+    <!-- rgb(33,150,243) -->
+    <path d='M3 0 L45 0 L24 21 L3 0' style='fill:#25AAE2'/>
+    <path d='M0 0 L16 16 L0 32' style='fill:#25AAE2' />
+    <path d='M48 0 L32 16 L48 32' style='fill:#25AAE2' />
+    <path d='M3 32 L17.4 17.6 L32 32' style='fill:#25AAE2'/>
+    <path d='M16 32 L30.4 17.6 L45 32' style='fill:#25AAE2'/>
   </g>
 </svg>
