@@ -21,7 +21,7 @@
 
 ![file.svg](file.svg) ![source.svg](source.svg) ![dockerfile.svg](dockerfile.svg) ![directry.svg](directry.svg)
 
-![user.svg](user.svg)
+![](user.svg) ![](user-blue.svg) ![](user-red.svg) ![](user-purple.svg) ![](user-green.svg) ![](user-yellow.svg)
 
 ![](user-outline.svg) ![](user-outline-blue.svg) ![](user-outline-red.svg) ![](user-outline-purple.svg) ![](user-outline-green.svg) ![](user-outline-yellow.svg)
 
