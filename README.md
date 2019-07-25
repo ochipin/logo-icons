@@ -34,3 +34,5 @@
 ![](network-line.svg) ![](ldap.svg) 
 
 ![](id-card.svg)
+
+![](file-blue.svg)
