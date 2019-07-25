@@ -32,3 +32,5 @@
 ![](sslvpn.svg) ![](sslvpn-outline.svg)
 
 ![](network-line.svg) ![](ldap.svg) 
+
+![](id-card.svg)
