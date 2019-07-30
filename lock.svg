@@ -8,7 +8,7 @@
     <!-- Blue: 90DFF9 -->
     <!-- Green: 0BAD9B -->
     <!-- Gray: 3F424B -->
-    <rect x='11' y='3' width='26' rx='13' ry='13' height='53px' stroke='#0BAD9B' stroke-width='6' style='fill:transparent' />
+    <rect x='11' y='3' width='26' rx='13' ry='13' height='53px' stroke='#0BAD9B' stroke-width='6' style='fill:transparent' fill-opacity='0.0' />
     <rect x='0' y='24' width='48' rx='6' ry='6' height='32' style='fill:#0BAD9B' />
     <circle cx='24' cy='36' r='4' style='fill:white' />
     <rect x='22' y='36' width='4' height='10px' rx='2' ry='2' style='fill:white' />
