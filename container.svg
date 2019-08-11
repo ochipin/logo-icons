@@ -4,8 +4,6 @@
      x='0px' y='0px' width='128px' height='128px'>
   <g>
     <!-- rgb(33,150,243) -->
-    <path d="M64 0 L0 27 L64 54 L128 27 Z" style="fill:rgb(162,150,243)"/>
-    <path d="M62 58 L62 128 L0 101 L0 31 Z" style="fill:rgb(162,150,243)"/>
-    <path d="M66 58 L66 128 L128 101 L128 31 Z" style="fill:rgb(162,150,243)"/>
+    <path d="M64 0 L0 27 L64 54 L128 27 Z M62 58 L62 128 L0 101 L0 31 Z M66 58 L66 128 L128 101 L128 31 Z" style="fill:rgb(162,150,243)"/>
   </g>
 </svg>
