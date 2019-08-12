@@ -7,7 +7,6 @@
     <!-- Red: FD6F70 -->
     <!-- Blue: 90DFF9 -->
     <!-- Green: 0BAD9B -->
-    <path d='M3 3 Q3 0 6 0 L22 0 Q25 0 25 4 L58 4 Q61 4 61 8 L36 8 L30 14 L3 14 Z' style='fill:#3F424B' />
-    <path d='M3 64 Q0 17 1 17 L31 17 L37 11 L63 11 Q64 12 58 64 L3 64' style='fill:#3F424B' />
+    <path d='M3 3 Q3 0 6 0 L22 0 Q25 0 25 4 L58 4 Q61 4 61 8 L36 8 L30 14 L3 14 Z M3 64 Q0 17 1 17 L31 17 L37 11 L63 11 Q64 12 58 64 L3 64 Z' style='fill:#3F424B' />
   </g>
 </svg>
