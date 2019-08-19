@@ -36,3 +36,5 @@
 ![](id-card.svg)
 
 ![](file-blue.svg)
+
+![](pumpkin.svg)
